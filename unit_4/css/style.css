@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Trocchi);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400italic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:500italic);
+body{
+	margin:0;
+	background-color: #619198;
+}
+header{
+
+}
+nav{
+	width:250px;
+	margin-left:auto;
+	margin-right: auto;
+}
+div{
+	
+}
+h1{
+	font-family: 'Trocchi', serif;
+	text-align: center;
+}
+h2{
+	font-family: 'Alegreya Sans', sans-serif;
+	text-align: center;
+}
+ul{
+	text-align: center;
+	list-style-type: none;
+}
+p{
+	text-align: center;
+}
+
+#hero{
+	background-image: url("../images/tkobackgrounddesk.png");
+	background-repeat: no-repeat;
+	background-size: 800px 800px;
+	height: 800px;
+	background-position: center;
+}
+#main{
+	font-family: 'Alegreya Sans', sans-serif;
+	background-color: #619198;
+}
+#footer{
+	font-family: 'Alegreya Sans', sans-serif;
+	background-color: #343434;
+}
+#slogan{
+	font-family: 'Alegreya Sans', sans-serif;
+}
