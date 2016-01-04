@@ -1,0 +1,85 @@
+@import url(https://fonts.googleapis.com/css?family=Trocchi);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400italic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:500italic);
+
+body{
+	margin:0;
+	background-color: #619198;
+	text-align: center;
+}
+header{
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+h1{
+	font-family: 'Trocchi', serif;
+	text-align: center;
+}
+h2{
+	font-family: 'Alegreya Sans', sans-serif;
+	text-align: center;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+p{
+	font-family:georgia, serif;
+	font-size: 20px;
+	line-height: 1.4em;
+}
+article{
+	background-color: #E89C6C;
+}
+aside{
+	background-color: #FFC675;
+}
+section{
+	background-color: #FF957E;
+}
+div{
+	background-color: #FF957E;
+}
+
+#nav_one{
+	width:250px;
+	margin-left:auto;
+	margin-right: auto;
+	background-color: #e8c66a
+}
+#hero_image{
+	background-image: url("../images/tkobackgrounddesk.png");
+	background-repeat: no-repeat;
+	background-size: 800px 800px;
+	height: 800px;
+	background-position: center;
+
+}
+
+#article_one{
+
+}
+
+#article_two{
+
+}
+
+#nav_aside{
+
+}
+
+#nav_final{
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+#section_final{
+	font-family: 'Alegreya Sans', sans-serif;
+}
+.navlinks{
+
+}
+
+.right{
+	text-align: center;
+}
